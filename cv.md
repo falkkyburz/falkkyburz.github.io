@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Curriculum Vitae
-permalink: /cv/
+date: 2024-08-23
+permalink: curriculum-vitae
 ---
 
 ## Education
@@ -28,7 +29,6 @@ lessons learned and other remarks. Can also include lists and
 links:
 
 * First item
-
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
 

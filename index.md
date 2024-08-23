@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![](/assets/images/index/banner.png)
