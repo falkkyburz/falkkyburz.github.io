@@ -1,0 +1,8 @@
+.post-content {
+    h2 {border-bottom: 1px solid $border-color-01;}
+    h2 + h3 {margin-top: 0;}
+}
+
+dd {
+    margin-left: $spacing-unit;
+}
