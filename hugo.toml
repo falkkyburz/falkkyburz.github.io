@@ -1,0 +1,4 @@
+baseURL = 'https://falkkyburz.com/'
+languageCode = 'en-us'
+title = 'Falk Kyburz'
+theme = 'PaperMod'
