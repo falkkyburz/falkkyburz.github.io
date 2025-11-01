@@ -2,3 +2,7 @@ baseURL = 'https://falkkyburz.com/'
 languageCode = 'en-us'
 title = 'Falk Kyburz'
 theme = 'PaperMod'
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
